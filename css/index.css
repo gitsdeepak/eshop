@@ -1,16 +1,41 @@
-/*.header {
-float:left;
-width:100%;
-padding:15px 20px;
-top:0;
-left: 0;
-position: fixed;
-}*/
-.navbar {
-      margin-bottom: 50px;
-      border-radius: 0;
+.top-bar{
+    background-color: grey;
+    padding: 8px;
+    float: left;
+    width: 100%;
+    color: white;  
+    font-size: 14px;
+    margin-left: -8px;
+    margin-top: -8px;
 }
-footer {
-      background-color: #f2f2f2;
-      padding: 25px;
+.tp1{
+    float: left;
+    margin-left: 40px;
+}
+.tp2{
+    float: right;
+    margin-right: 40px;
+}
+.tp3{
+    float: right;
+    margin-right: 20px;
+}
+.navbar{
+    float: left;
+    padding: 16px;
+    width: 100%;
+    margin-left: -8px;
+    box-shadow: 0px 0px 5px grey;
+}
+.navbar-logo{
+    float: left;
+    margin-left: 8vw;
+}
+.search-container{
+    float: left;
+    margin-left: 2vw;
+    width: 80%;
+}
+.search-container input{
+    width: 100%;
 }
