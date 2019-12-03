@@ -1,2 +1,2 @@
-# MyShop
+# eshop
 Frontend
